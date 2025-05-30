@@ -8,6 +8,10 @@ public class Main {
 
         System.out.println(age);
 
+        age = 33;
+
+        System.out.println(age);
+
         double salary = 50000.75;
 
         System.out.println(salary);
